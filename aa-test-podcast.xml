@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>解除AA系列程序 (Test)</title>
+    <link>https://www.youtube.com/playlist?list=PLxBFvXMVjCIHNeZPmMoGgH6O-92FalR2i</link>
+    <language>zh-CN</language>
+    <copyright>© 2025 Kirsten — Sobriety Bestie</copyright>
+
+    <description>这是一个测试版播客 RSS，用于验证在 Spotify 上能否正常识别。</description>
+    <itunes:summary>这是一个测试版播客 RSS，用于验证在 Spotify 上能否正常识别。</itunes:summary>
+
+    <itunes:author>Kirsten — Sobriety Bestie</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kirsten — Sobriety Bestie</itunes:name>
+      <itunes:email>xilianhuyu@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health"/>
+    </itunes:category>
+
+    <itunes:image href="https://cdn.pixabay.com/photo/2017/06/10/07/07/microphone-2385122_1280.jpg"/>
+    <image>
+      <url>https://cdn.pixabay.com/photo/2017/06/10/07/07/microphone-2385122_1280.jpg</url>
+      <title>解除AA系列程序</title>
+      <link>https://www.youtube.com/playlist?list=PLxBFvXMVjCIHNeZPmMoGgH6O-92FalR2i</link>
+    </image>
+
+    <item>
+      <title>测试集：欢迎来到解除AA系列程序</title>
+      <guid isPermaLink="false">aa-test-ep1</guid>
+      <pubDate>Mon, 06 Oct 2025 12:00:00 GMT</pubDate>
+      <description>这是一个测试音频，用来验证 RSS 是否能被 Spotify 正确解析。</description>
+      <itunes:summary>这是一个测试音频，用来验证 RSS 是否能被 Spotify 正确解析。</itunes:summary>
+      <itunes:author>Kirsten — Sobriety Bestie</itunes:author>
+      <itunes:duration>00:00:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+
+      <enclosure
+        url="https://cdn.pixabay.com/download/audio/2021/08/04/audio_9a7a4d1a0a.mp3?filename=royalty-free-podcast-intro-ambient-21014.mp3"
+        length="1234567"
+        type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>
